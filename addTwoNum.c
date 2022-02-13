@@ -1,0 +1,11 @@
+#include <stdio.h>
+#define SUCCESS 0
+
+int main()
+{
+	int a,b;
+	printf("Enter the a and b values:");
+	scanf("%d %d",&a,&b);
+	printf("%d\n",a+b);
+	return SUCCESS;
+}
