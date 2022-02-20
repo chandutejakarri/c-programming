@@ -11,5 +11,7 @@ int main()
 	printf("%d\n",a*b);
 	/*subtraction*/
 	printf("%d\n",a-b);
+	/*division*/
+	printf("%d\n",a/b);
 	return SUCCESS;
 }
