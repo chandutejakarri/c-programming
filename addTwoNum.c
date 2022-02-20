@@ -7,5 +7,7 @@ int main()
 	printf("Enter the a and b values:");
 	scanf("%d %d",&a,&b);
 	printf("%d\n",a+b);
+	/*multiplication*/
+	printf("%d\n",a*b);
 	return SUCCESS;
 }
