@@ -9,5 +9,7 @@ int main()
 	printf("%d\n",a+b);
 	/*multiplication*/
 	printf("%d\n",a*b);
+	/*subtraction*/
+	printf("%d\n",a-b);
 	return SUCCESS;
 }
